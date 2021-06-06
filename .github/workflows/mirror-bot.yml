@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
    
 env:
-  GitHubMail: ${{ secrets.GitHubMail }}
-  GitHubName: ${{ secrets.GitHubName }}
+  GitHubMail: 85213204+crevanth@users.noreply.github.com
+  GitHubName: crevanth
 
 jobs:
   debug:
